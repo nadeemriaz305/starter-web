@@ -12,7 +12,7 @@ This repository is for practice.
 As stated above, the main purpose is to show different parts of the Git repository and various commands using a web project.
 
 ## How To Contribute
-	Contribute it in the deveolopment section
+	Fork this repo and issue pull request.
 ## Deployment
 	This is project is just for practice not for deployment.
 
