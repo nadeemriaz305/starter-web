@@ -5,7 +5,7 @@
 This repository is for practice.
 
 ## Extra
-	just extra section and in working directory.
+	Extra contents are available
 
 ## Purpose
 
